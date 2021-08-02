@@ -1,0 +1,3 @@
+compile
+testOnly fp3tests
+exit

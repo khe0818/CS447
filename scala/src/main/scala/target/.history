@@ -1,0 +1,7 @@
+compile
+testOnly fp3tests
+test
+testOnly fp1tests
+ls
+:q
+exit

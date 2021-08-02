@@ -1,0 +1,9 @@
+compile
+ls
+compile
+testOnly fp3tests
+exit
+compile
+testOnly fp3tests
+testOnly fp3tests.scala
+exit
